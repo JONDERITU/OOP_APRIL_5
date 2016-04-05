@@ -1,4 +1,11 @@
-
+<!--
+ * Cytonn Technologies
+ *
+ * @author: JOSEPH GICHANE <jgichane@cytonn.com>
+ *
+ * Project: OBJECT ORIENTED CONCEPTS.
+ *
+ *-->
 <?php
 //DB.class.php
 

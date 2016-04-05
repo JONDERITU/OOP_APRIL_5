@@ -1,3 +1,11 @@
+<!--
+ * Cytonn Technologies
+ *
+ * @author: JOSEPH GICHANE <jgichane@cytonn.com>
+ *
+ * Project: OBJECT ORIENTED CONCEPTS.
+ *
+ *-->
 <?php
 require_once 'classes/User.class.php';
 require_once 'classes/UserTools.class.php';
