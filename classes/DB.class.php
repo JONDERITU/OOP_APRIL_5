@@ -1,8 +1,10 @@
+
 <?php
 //DB.class.php
 
 class DB {
 
+		//declaring the db variables as protected such that they cant be accessed elsewhere
 	protected $db_name = 'oop';
 	protected $db_user = 'root';
 	protected $db_pass = 'toor';
